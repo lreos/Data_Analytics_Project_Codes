@@ -1,1 +1,1 @@
-# Different Datta Analytics Project in order to clean and manipulate data, scrubb websites, use geolocation and train/test prediction algo models. 
+# Different Datta Analytics Project in order to clean and manipulate data, scrape websites, use geolocation libraries, and train/test regression/classification prediction algo models.
